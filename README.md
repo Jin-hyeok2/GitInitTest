@@ -6,7 +6,7 @@
 - Conflict 해결 방법 + Merge
 
 <code>
-<!DOCTYPE html>
+"<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -17,5 +17,5 @@
 <body>
     <p>충돌이 날꺼야...!!!</p>
 </body>
-</html>
+</html>"
 </code>
